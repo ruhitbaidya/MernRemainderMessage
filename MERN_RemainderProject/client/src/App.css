@@ -1,0 +1,25 @@
+*{
+  margin : 0;
+  padding:0;
+  box-sizing: border-box;
+}
+.footer-link a{
+  display: inline-block;
+  text-align: center;
+  padding:10px 20px;
+  text-decoration: none;
+  color:aliceblue;
+}
+.footer-link ul li{
+    display: inline-block;
+}
+hr{
+  border: 1px solid aliceblue !important;
+}
+.footer-link {
+  text-align: center;
+}
+.footer-copy{
+  color: aliceblue;
+  text-align: center;
+}
